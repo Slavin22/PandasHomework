@@ -1,5 +1,5 @@
 
-# Heroes of Pymoli
+# Heroes of Pymoli Data Analysis
 
 - The vast majority of players (77.84%) are between the ages of 15 and 29. Specifically, the 20-24 range (45.20%) is the largest by far, followed by 15-19 (17.45%) and 25-29 (15.18%).
 
@@ -32,6 +32,8 @@ df.columns
     Index(['Age', 'Gender', 'Item ID', 'Item Name', 'Price', 'SN'], dtype='object')
 
 
+
+### Player Count
 
 
 ```python
@@ -77,6 +79,8 @@ Players
 
 
 
+### Purchasing Total (Analysis)
+
 
 ```python
 # Purchasing Analysis (Total)
@@ -119,6 +123,8 @@ TotalAnalysis
 </table> 
 
 
+
+### Gender Demographics
 
 
 ```python
@@ -173,6 +179,8 @@ GenderDemographics
 </table> 
 
 
+
+### Purchasing Analysis (Gender)
 
 
 ```python
@@ -252,6 +260,8 @@ GenderAnalysis
 </table> 
 
 
+
+### Age Demographics
 
 
 ```python
@@ -358,6 +368,8 @@ AgeDemographics
 </table> 
 
 
+
+### Purchasing Analysis (Age)
 
 
 ```python
@@ -493,6 +505,8 @@ AgeAnalysis
 
 
 
+### Top Spenders
+
 
 ```python
 # Top Spenders
@@ -564,6 +578,8 @@ Merge2
 
 
 
+### Most Popular Items
+
 
 ```python
 # Most Popular Items
@@ -634,6 +650,8 @@ Merge4
 </table> 
 
 
+
+### Most Profitable Items
 
 
 ```python
